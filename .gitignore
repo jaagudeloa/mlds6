@@ -3,3 +3,7 @@
 env_vars*
 credentials*
 **/build/*
+*.xlsx
+*.csv
+*.json
+*.png
