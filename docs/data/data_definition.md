@@ -2,24 +2,17 @@
 
 ## Origen de los datos
 
-- [ ] Especificar la fuente de los datos y la forma en que se obtuvieron. 
+- Con cerca de 3700 nombres asociados con los péptidos se procederá a  realizar búsquedas en la base de datos de PUBMED y se traerá un número de resúmenes de artículos en formato tipo json susceptible de ser analizados por medio de notebooks de python 
 
 ## Especificación de los scripts para la carga de datos
 
-- [ ] Especificar los scripts utilizados para la carga de los datos. 
+- data_acquisition/main.ipynb 
 
 ## Referencias a rutas o bases de datos origen y destino
 
-- [ ] Especificar las rutas o bases de datos de origen y destino para los datos.
-
 ### Rutas de origen de datos
-
-- [ ] Especificar la ubicación de los archivos de origen de los datos.
-- [ ] Especificar la estructura de los archivos de origen de los datos.
-- [ ] Describir los procedimientos de transformación y limpieza de los datos.
+- https://www.ncbi.nlm.nih.gov/research/pubtator3/ 
+- https://drive.google.com/drive/folders/1Ok4om1YBNHw9-DpfXZKLET-cK__ZTWSq?usp=drive_link
 
 ### Base de datos de destino
 
-- [ ] Especificar la base de datos de destino para los datos.
-- [ ] Especificar la estructura de la base de datos de destino.
-- [ ] Describir los procedimientos de carga y transformación de los datos en la base de datos de destino.
