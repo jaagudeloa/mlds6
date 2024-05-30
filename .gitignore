@@ -5,4 +5,3 @@ credentials*
 **/build/*
 *.xlsx
 *.csv
-*.json
